@@ -9,6 +9,11 @@ const tarefas = [
         id: 1,
         descricao: "Comprar pão",
         finalizado: false
+    },
+    {
+        id: 2,
+        descricao: "Comprar leite",
+        finalizado: true
     }
 ];
 
