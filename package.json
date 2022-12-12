@@ -6,7 +6,7 @@
   "author": "Prof. Dr. Henrique Dezani <dezani@fatecriopreto.edu.br>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2"
   },
   "scripts": {
